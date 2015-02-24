@@ -14,5 +14,4 @@ self.addEventListener('activate', function(e) {
 
 self.addEventListener('fetch', function(e) {
   debug('Fetch event');
-  debug('uhiuhiuhiuhiFetch event');
 });
